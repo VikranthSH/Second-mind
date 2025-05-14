@@ -125,7 +125,9 @@ curl -X POST "http://127.0.0.1:8000/generate" -d "prompt=AI use case"
 ---
 
 ## **👥 Contributors**  
-👨‍💻 **Skanda Ganesha L** - [GitHub Profile](https://github.com/SkandaGanesha1)  
-📧 **Contact:** skandaganesha16@gmail.com  
+👨‍💻 **Vikranth S H** - [GitHub Profile]([https://github.com/VikranthSH))  
+📧 **Contact:** vikranthsh83@gmail.com  
+
+![Screenshot 2025-03-20 150335](https://github.com/user-attachments/assets/10ed83b2-e5b5-4dc2-9d84-d7cb69a4014f)
 
 
