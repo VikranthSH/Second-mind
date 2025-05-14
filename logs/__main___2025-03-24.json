@@ -1,0 +1,4 @@
+[SYSTEM] Initializing The Second Mind system...
+{"timestamp": "2025-03-24T20:05:08.631888", "level": "INFO", "session_id": "session_1742826908", "agent": "system", "message": "Initializing The Second Mind system...", "data": {}}
+[SYSTEM] Research session {'meta_review_results': [{'item': {'item': {'item': [], 'proximity_score': 0.0}, 'review_score': 0.0}, 'review_score': 0.0}]} started for topic: Renewable energy for urban areas
+{"timestamp": "2025-03-24T20:06:41.892031", "level": "INFO", "session_id": "session_1742826908", "agent": "system", "message": "Research session {'meta_review_results': [{'item': {'item': {'item': [], 'proximity_score': 0.0}, 'review_score': 0.0}, 'review_score': 0.0}]} started for topic: Renewable energy for urban areas", "data": {}}
